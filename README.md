@@ -1,19 +1,19 @@
-#Tinashe Osewe's Portfolio Landing Page
+# Tinashe Osewe's Portfolio Landing Page
 
-##Creation Date
+## Creation Date
 Sunday February 11, 2018
 
-##Host
+## Host
 Github Pages
 
-##Built with
+## Built with
 HTML & CSS
 
 ## Version
 1.0
 
-##Author
+## Author
 Tinashe Osewe
 
-##Acknowledgements
+## Acknowledgements
 Guidance by moringa school, namely James Mbuthia
