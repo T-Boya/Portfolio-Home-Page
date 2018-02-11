@@ -76,9 +76,28 @@ margin-bottom: 2vh;
     background: none;
     padding: 12px 22px;
     border: 2px solid #8a5d2a;
-	
+    color: #422918;
 }
 a{
     color: #422918;
 }
+.btn.btn-primary.btn-md a:hover{
+    text-decoration: none;
+    color: #422918;
+}
 /* BUTTON EFFECTS */
+
+/* BOTTOM */
+.jumbotron {
+    margin-top: 40vh;
+    background-color: white;
+    width: 100%;
+    float: left;
+    text-align: center;
+    height: 10vh;
+}
+.jumbotron a:hover{
+    text-decoration: none;
+    color: black;
+}
+/* BOTTOM */
