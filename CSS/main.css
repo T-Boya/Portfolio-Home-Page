@@ -1,5 +1,5 @@
 /* NAVIGATION BAR */
-.navbar.navbar-default {
+.navbar.navbar-default.navbar-fixed-top{
     opacity: 0.7;
 }
 .navbar-brand img {
@@ -28,6 +28,7 @@ height: 100%;
 background: white;
 margin-right: 5vh;
 margin-bottom: 2vh;
+margin-top: 10vh;
 }
 /* RIGHT SIDE */
 
@@ -71,7 +72,7 @@ margin-bottom: 2vh;
 .btn.btn-primary.btn-md {
     margin-left: 38vh;
     margin-top: 5vh;
-    margin-bottom: 5vh;
+    margin-bottom: 15vh;
     opacity: 0%;
     background: none;
     padding: 12px 22px;
@@ -101,3 +102,4 @@ a{
     color: black;
 }
 /* BOTTOM */
+
