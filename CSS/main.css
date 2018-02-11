@@ -27,7 +27,7 @@ width: 50%;
 height: 100%;
 background: white;
 margin-right: 5vh;
-margin-bottom: 10vh;
+margin-bottom: 2vh;
 }
 /* RIGHT SIDE */
 
@@ -70,7 +70,8 @@ margin-bottom: 10vh;
 /* BUTTON EFFECTS */
 .btn.btn-primary.btn-md {
     margin-left: 38vh;
-    margin-top: 10vh;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
     opacity: 0%;
     background: none;
     padding: 12px 22px;
