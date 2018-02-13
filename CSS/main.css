@@ -17,7 +17,7 @@ html,body
     height: 2vh;
 }
 body {
-    background: url("/../IMG/background.jpg");
+    background: url("../IMG/background.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-repeat:no-repeat;
