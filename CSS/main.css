@@ -73,7 +73,7 @@ border-radius: 3vh;
     #face {
         height: 50vh;
         width: 50vh;
-        margin-left: 20vh;
+        margin-left: 7.5vh;
         margin-top: 10vh;
     }
 
@@ -86,7 +86,7 @@ border-radius: 3vh;
 
 /* BUTTON EFFECTS */
 .btn.btn-primary.btn-md {
-    margin-left: 36vh;
+    margin-left: 26vh;
     margin-top: 5vh;
     margin-bottom: 15vh;
     opacity: 0%;
